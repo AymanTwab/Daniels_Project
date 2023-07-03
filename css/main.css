@@ -526,7 +526,7 @@ section {
     transition: all 0.5s;
 }
 
-.contact .item-icon:hover {
+.contact .item:hover .item-icon {
     background-color: #1c1c1c;
     color: #eee;
 }
